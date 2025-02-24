@@ -4,4 +4,4 @@
 🔹 I specialize in **Front-end & Back-end development**  
 🔹 Passionate about **JavaScript, C#, and Open Source**  
 🔹 📫 Reach me at **tchoumkeunya@gmail.com**  
-🔹 🔗 [LinkedIn] https://linkedin.com/in/Christian Tchoumkeu Nya
+🔹 🔗 [LinkedIn] https://linkedin.com/in/ChristianTchoumkeuNya
